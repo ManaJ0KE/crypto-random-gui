@@ -29,14 +29,16 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ManaJ0KE/FunCryptRandom.git
-cd FunCryptRandom
+git clone https://github.com/ManaJ0KE/crypto-random-gui.git
+cd crypto-random-gui
 ```
 2. Установите зависимости:
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 3. Запустите программу:
 
-```python rand.py
+```bash
+python rand.py
 ```
